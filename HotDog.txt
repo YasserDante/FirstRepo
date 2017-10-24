@@ -1,7 +1,8 @@
 Ingridients:
 1. a beautiful dog
-2. a stove:
+2. a stove
 3. a piece of foil
+4. some delicious dresser
 
 Instruction:
 1. burn a dog
