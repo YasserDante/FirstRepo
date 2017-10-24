@@ -1,0 +1,9 @@
+Ingridients:
+1. a beautiful dog
+2. a stove:
+3. a piece of foil
+
+Instruction:
+1. burn a dog
+2. cover it to keep hot
+3. food is ready!!
